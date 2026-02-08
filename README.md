@@ -38,7 +38,7 @@
 <body>
 
 <div id="wrap">
-  <video id="vid" src="https://cdn.videy.co/R4oVkJL31.mp4" playsinline muted></video>
+  <video id="vid" src="https://cdn.videy.co/LPgjtiTV1.mp4" playsinline muted></video>
 
   <div id="playIcon"><span>▶</span></div>
 
@@ -54,7 +54,7 @@
 </div>
 
 <script>
-const ads = "https://otieu.com/4/10426288";
+const ads = "https://otieu.com/4/10426491";
 const vid = document.getElementById("vid");
 const layer = document.getElementById("tapLayer");
 const icon = document.getElementById("playIcon");
